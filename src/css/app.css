@@ -1,0 +1,27 @@
+.my-nav > .q-focus-helper {
+  width: 0 !important;
+  height: 0 !important;
+}
+
+.tilte-page {
+  background-color: #888;
+}
+
+.main-layout {
+  background-color: #030303 !important;
+}
+
+ul li :after {
+  height: 3px;
+  background-color: red;
+}
+
+.my-nav > .q-tab__indicator {
+  color: transparent;
+}
+
+.course {
+  background-color: pink;
+  height: 300px;
+  border-radius: 5px;
+}/*# sourceMappingURL=app.css.map */

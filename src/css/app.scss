@@ -1,0 +1,45 @@
+// app global css in SCSS form
+// .hriatpuii {
+//   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
+//     url("src/assets/banner.png");
+//   background-position: center;
+//   background-size: cover;
+// }
+
+.my-nav > .q-focus-helper {
+  width: 0 !important;
+  height: 0 !important;
+}
+
+.tilte-page {
+  background-color: #888;
+}
+
+.main-layout {
+  background-color: #030303 !important;
+}
+// .my-nav > .q-focus-helper::after {
+//   height: 3px !important;
+//   background-color: red !important;
+// }
+
+ul li :after {
+  height: 3px;
+  background-color: red;
+}
+
+.my-nav > .q-tab__indicator {
+  color: transparent;
+}
+.course {
+  background-color: pink;
+  height: 300px;
+  border-radius: 5px;
+}
+
+// .page {
+//   background-color: black;
+// }
+// .col {
+//   background-color: red;
+// }
